@@ -1,0 +1,1 @@
+# SmartScraperApp scraper package
